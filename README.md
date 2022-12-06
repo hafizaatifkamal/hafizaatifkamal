@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hafizaatifkamal
 - 👀 I’m interested in MERN Stack
-- 🌱 I’m currently working as Software Development Engineer - I
+- 🌱 Currently working as Software Development Engineer - I
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 You can reach out to me at hafizaatifkamal@gmail.com
 
