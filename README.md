@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafizaatifkamal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on MERN Stack Development
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently working as Software Development Engineer - I
+- 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 You can reach out to me at hafizaatifkamal@gmail.com
 
 <!---
